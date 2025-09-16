@@ -1,0 +1,5059 @@
+{
+  "video_path": "demo_thermal_stress_behaviors.mp4",
+  "video_properties": {
+    "fps": 30.0,
+    "total_frames": 3600,
+    "duration": 120.0,
+    "width": 1280,
+    "height": 720
+  },
+  "analysis_timestamp": "2025-09-16T02:45:39.346949",
+  "demo_mode": true,
+  "frame_results": [
+    {
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "detections": [
+        {
+          "bbox": [
+            362,
+            184,
+            821,
+            590
+          ],
+          "confidence": 0.8382923312638332,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 10,
+      "timestamp": 0.3333333333333333,
+      "detections": [
+        {
+          "bbox": [
+            357,
+            222,
+            849,
+            609
+          ],
+          "confidence": 0.838293152152541,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 20,
+      "timestamp": 0.6666666666666666,
+      "detections": []
+    },
+    {
+      "frame_idx": 30,
+      "timestamp": 1.0,
+      "detections": [
+        {
+          "bbox": [
+            271,
+            193,
+            779,
+            607
+          ],
+          "confidence": 0.9231189060173008,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 40,
+      "timestamp": 1.3333333333333333,
+      "detections": [
+        {
+          "bbox": [
+            358,
+            218,
+            840,
+            628
+          ],
+          "confidence": 0.9269357483807299,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 50,
+      "timestamp": 1.6666666666666667,
+      "detections": [
+        {
+          "bbox": [
+            361,
+            229,
+            829,
+            584
+          ],
+          "confidence": 0.9232824384460777,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 60,
+      "timestamp": 2.0,
+      "detections": [
+        {
+          "bbox": [
+            324,
+            221,
+            813,
+            626
+          ],
+          "confidence": 0.8387111849756732,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 70,
+      "timestamp": 2.3333333333333335,
+      "detections": [
+        {
+          "bbox": [
+            320,
+            176,
+            770,
+            578
+          ],
+          "confidence": 0.8199680655040598,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 80,
+      "timestamp": 2.6666666666666665,
+      "detections": [
+        {
+          "bbox": [
+            329,
+            176,
+            793,
+            577
+          ],
+          "confidence": 0.8354153125103362,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 90,
+      "timestamp": 3.0,
+      "detections": [
+        {
+          "bbox": [
+            347,
+            186,
+            785,
+            619
+          ],
+          "confidence": 0.7867440443038679,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 100,
+      "timestamp": 3.3333333333333335,
+      "detections": [
+        {
+          "bbox": [
+            273,
+            223,
+            842,
+            587
+          ],
+          "confidence": 0.9045996132178835,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 110,
+      "timestamp": 3.6666666666666665,
+      "detections": []
+    },
+    {
+      "frame_idx": 120,
+      "timestamp": 4.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 130,
+      "timestamp": 4.333333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 140,
+      "timestamp": 4.666666666666667,
+      "detections": [
+        {
+          "bbox": [
+            317,
+            184,
+            821,
+            583
+          ],
+          "confidence": 0.7995457328567446,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 150,
+      "timestamp": 5.0,
+      "detections": [
+        {
+          "bbox": [
+            322,
+            193,
+            775,
+            594
+          ],
+          "confidence": 0.7708352893231556,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 160,
+      "timestamp": 5.333333333333333,
+      "detections": [
+        {
+          "bbox": [
+            310,
+            198,
+            764,
+            614
+          ],
+          "confidence": 0.816153899984702,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 170,
+      "timestamp": 5.666666666666667,
+      "detections": [
+        {
+          "bbox": [
+            280,
+            220,
+            830,
+            577
+          ],
+          "confidence": 0.8805838144420434,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 180,
+      "timestamp": 6.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 190,
+      "timestamp": 6.333333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 200,
+      "timestamp": 6.666666666666667,
+      "detections": [
+        {
+          "bbox": [
+            310,
+            197,
+            756,
+            578
+          ],
+          "confidence": 0.7745923355226259,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 210,
+      "timestamp": 7.0,
+      "detections": [
+        {
+          "bbox": [
+            292,
+            193,
+            786,
+            604
+          ],
+          "confidence": 0.904982348789241,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 220,
+      "timestamp": 7.333333333333333,
+      "detections": [
+        {
+          "bbox": [
+            355,
+            196,
+            784,
+            570
+          ],
+          "confidence": 0.8663422611985007,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 230,
+      "timestamp": 7.666666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 240,
+      "timestamp": 8.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 250,
+      "timestamp": 8.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            283,
+            208,
+            776,
+            578
+          ],
+          "confidence": 0.8459440522920656,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 260,
+      "timestamp": 8.666666666666666,
+      "detections": []
+    },
+    {
+      "frame_idx": 270,
+      "timestamp": 9.0,
+      "detections": [
+        {
+          "bbox": [
+            346,
+            220,
+            812,
+            601
+          ],
+          "confidence": 0.7790624770704299,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 280,
+      "timestamp": 9.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            363,
+            206,
+            772,
+            608
+          ],
+          "confidence": 0.902124580866971,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 290,
+      "timestamp": 9.666666666666666,
+      "detections": [
+        {
+          "bbox": [
+            312,
+            198,
+            785,
+            582
+          ],
+          "confidence": 0.8393919289144186,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 300,
+      "timestamp": 10.0,
+      "detections": [
+        {
+          "bbox": [
+            335,
+            211,
+            794,
+            626
+          ],
+          "confidence": 0.8286565602980138,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 310,
+      "timestamp": 10.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            297,
+            197,
+            793,
+            589
+          ],
+          "confidence": 0.854853877467402,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 320,
+      "timestamp": 10.666666666666666,
+      "detections": []
+    },
+    {
+      "frame_idx": 330,
+      "timestamp": 11.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 340,
+      "timestamp": 11.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            366,
+            170,
+            776,
+            626
+          ],
+          "confidence": 0.8984322495266445,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 350,
+      "timestamp": 11.666666666666666,
+      "detections": []
+    },
+    {
+      "frame_idx": 360,
+      "timestamp": 12.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 370,
+      "timestamp": 12.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            341,
+            196,
+            758,
+            606
+          ],
+          "confidence": 0.7951867102359322,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 380,
+      "timestamp": 12.666666666666666,
+      "detections": [
+        {
+          "bbox": [
+            328,
+            223,
+            781,
+            601
+          ],
+          "confidence": 0.8957442160963006,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 390,
+      "timestamp": 13.0,
+      "detections": [
+        {
+          "bbox": [
+            321,
+            218,
+            811,
+            618
+          ],
+          "confidence": 0.8076991491772146,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 400,
+      "timestamp": 13.333333333333334,
+      "detections": [
+        {
+          "bbox": [
+            272,
+            218,
+            805,
+            586
+          ],
+          "confidence": 0.8088755315609969,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 410,
+      "timestamp": 13.666666666666666,
+      "detections": [
+        {
+          "bbox": [
+            271,
+            171,
+            841,
+            623
+          ],
+          "confidence": 0.8459956332323755,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 420,
+      "timestamp": 14.0,
+      "detections": [
+        {
+          "bbox": [
+            271,
+            222,
+            793,
+            595
+          ],
+          "confidence": 0.8379309934177893,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 430,
+      "timestamp": 14.333333333333334,
+      "detections": []
+    },
+    {
+      "frame_idx": 440,
+      "timestamp": 14.666666666666666,
+      "detections": [
+        {
+          "bbox": [
+            337,
+            224,
+            824,
+            625
+          ],
+          "confidence": 0.8895515973521523,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 450,
+      "timestamp": 15.0,
+      "detections": [
+        {
+          "bbox": [
+            367,
+            175,
+            835,
+            580
+          ],
+          "confidence": 0.804530627260263,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 460,
+      "timestamp": 15.333333333333334,
+      "detections": []
+    },
+    {
+      "frame_idx": 470,
+      "timestamp": 15.666666666666666,
+      "detections": []
+    },
+    {
+      "frame_idx": 480,
+      "timestamp": 16.0,
+      "detections": [
+        {
+          "bbox": [
+            328,
+            175,
+            829,
+            598
+          ],
+          "confidence": 0.8291771818224313,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 490,
+      "timestamp": 16.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            359,
+            172,
+            768,
+            589
+          ],
+          "confidence": 0.8928751625794056,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 500,
+      "timestamp": 16.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            321,
+            210,
+            782,
+            609
+          ],
+          "confidence": 0.8810274107980868,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 510,
+      "timestamp": 17.0,
+      "detections": [
+        {
+          "bbox": [
+            361,
+            226,
+            838,
+            619
+          ],
+          "confidence": 0.8419531311568468,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 520,
+      "timestamp": 17.333333333333332,
+      "detections": []
+    },
+    {
+      "frame_idx": 530,
+      "timestamp": 17.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 540,
+      "timestamp": 18.0,
+      "detections": [
+        {
+          "bbox": [
+            285,
+            195,
+            809,
+            618
+          ],
+          "confidence": 0.8337754521085553,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 550,
+      "timestamp": 18.333333333333332,
+      "detections": []
+    },
+    {
+      "frame_idx": 560,
+      "timestamp": 18.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 570,
+      "timestamp": 19.0,
+      "detections": [
+        {
+          "bbox": [
+            278,
+            210,
+            848,
+            588
+          ],
+          "confidence": 0.8397066641452248,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 580,
+      "timestamp": 19.333333333333332,
+      "detections": []
+    },
+    {
+      "frame_idx": 590,
+      "timestamp": 19.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 600,
+      "timestamp": 20.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 610,
+      "timestamp": 20.333333333333332,
+      "detections": []
+    },
+    {
+      "frame_idx": 620,
+      "timestamp": 20.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            344,
+            218,
+            821,
+            605
+          ],
+          "confidence": 0.8613144134749438,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 630,
+      "timestamp": 21.0,
+      "detections": [
+        {
+          "bbox": [
+            358,
+            204,
+            774,
+            598
+          ],
+          "confidence": 0.8923700716288319,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 640,
+      "timestamp": 21.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            351,
+            171,
+            803,
+            604
+          ],
+          "confidence": 0.7904348251398675,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 650,
+      "timestamp": 21.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 660,
+      "timestamp": 22.0,
+      "detections": [
+        {
+          "bbox": [
+            290,
+            217,
+            769,
+            625
+          ],
+          "confidence": 0.8828276804316915,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 670,
+      "timestamp": 22.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            276,
+            172,
+            766,
+            602
+          ],
+          "confidence": 0.8817120148132145,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 680,
+      "timestamp": 22.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            291,
+            215,
+            779,
+            607
+          ],
+          "confidence": 1.0030547607189129,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 690,
+      "timestamp": 23.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 700,
+      "timestamp": 23.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            277,
+            196,
+            776,
+            603
+          ],
+          "confidence": 0.915017257399827,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 710,
+      "timestamp": 23.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            366,
+            174,
+            810,
+            617
+          ],
+          "confidence": 0.7828238117966283,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 720,
+      "timestamp": 24.0,
+      "detections": [
+        {
+          "bbox": [
+            304,
+            218,
+            766,
+            613
+          ],
+          "confidence": 0.8388268607337074,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 730,
+      "timestamp": 24.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            293,
+            198,
+            795,
+            622
+          ],
+          "confidence": 0.8857000247046046,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 740,
+      "timestamp": 24.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            329,
+            202,
+            812,
+            590
+          ],
+          "confidence": 0.8195313312057793,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 750,
+      "timestamp": 25.0,
+      "detections": [
+        {
+          "bbox": [
+            287,
+            194,
+            844,
+            623
+          ],
+          "confidence": 0.8093239451519988,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 760,
+      "timestamp": 25.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            315,
+            193,
+            781,
+            616
+          ],
+          "confidence": 0.9028711754431188,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 770,
+      "timestamp": 25.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 780,
+      "timestamp": 26.0,
+      "detections": [
+        {
+          "bbox": [
+            312,
+            223,
+            797,
+            608
+          ],
+          "confidence": 0.8525680429739817,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 790,
+      "timestamp": 26.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            295,
+            204,
+            799,
+            594
+          ],
+          "confidence": 0.8133524432478139,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 800,
+      "timestamp": 26.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            305,
+            214,
+            769,
+            570
+          ],
+          "confidence": 0.8597673236273486,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 810,
+      "timestamp": 27.0,
+      "detections": [
+        {
+          "bbox": [
+            285,
+            183,
+            825,
+            620
+          ],
+          "confidence": 0.7923717314169992,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 820,
+      "timestamp": 27.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            356,
+            191,
+            800,
+            594
+          ],
+          "confidence": 0.7749615803396412,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 830,
+      "timestamp": 27.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            331,
+            191,
+            807,
+            627
+          ],
+          "confidence": 0.8264034067105283,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 840,
+      "timestamp": 28.0,
+      "detections": [
+        {
+          "bbox": [
+            366,
+            177,
+            802,
+            629
+          ],
+          "confidence": 0.9044475298483683,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 850,
+      "timestamp": 28.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            274,
+            208,
+            817,
+            575
+          ],
+          "confidence": 0.8522785919951906,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 860,
+      "timestamp": 28.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            324,
+            209,
+            801,
+            585
+          ],
+          "confidence": 0.8174199826197092,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 870,
+      "timestamp": 29.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 880,
+      "timestamp": 29.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            299,
+            188,
+            766,
+            625
+          ],
+          "confidence": 0.8277750627890409,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 890,
+      "timestamp": 29.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            359,
+            222,
+            811,
+            592
+          ],
+          "confidence": 0.7665433820454733,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 900,
+      "timestamp": 30.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 910,
+      "timestamp": 30.333333333333332,
+      "detections": [
+        {
+          "bbox": [
+            427,
+            130,
+            766,
+            563
+          ],
+          "confidence": 0.7976451445529655,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            180,
+            245,
+            618,
+            634
+          ],
+          "confidence": 0.7577230096713448,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 920,
+      "timestamp": 30.666666666666668,
+      "detections": []
+    },
+    {
+      "frame_idx": 930,
+      "timestamp": 31.0,
+      "detections": [
+        {
+          "bbox": [
+            385,
+            166,
+            741,
+            558
+          ],
+          "confidence": 0.8033825627155331,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            200,
+            268,
+            615,
+            662
+          ],
+          "confidence": 0.8823203408283382,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 940,
+      "timestamp": 31.333333333333332,
+      "detections": []
+    },
+    {
+      "frame_idx": 950,
+      "timestamp": 31.666666666666668,
+      "detections": [
+        {
+          "bbox": [
+            423,
+            134,
+            755,
+            563
+          ],
+          "confidence": 0.8201269527836272,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 960,
+      "timestamp": 32.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 970,
+      "timestamp": 32.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 980,
+      "timestamp": 32.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 990,
+      "timestamp": 33.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1000,
+      "timestamp": 33.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            216,
+            241,
+            582,
+            630
+          ],
+          "confidence": 0.8153561169074992,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1010,
+      "timestamp": 33.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1020,
+      "timestamp": 34.0,
+      "detections": [
+        {
+          "bbox": [
+            382,
+            141,
+            750,
+            531
+          ],
+          "confidence": 0.8277209705043395,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1030,
+      "timestamp": 34.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1040,
+      "timestamp": 34.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1050,
+      "timestamp": 35.0,
+      "detections": [
+        {
+          "bbox": [
+            376,
+            133,
+            777,
+            540
+          ],
+          "confidence": 0.7898982229905058,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1060,
+      "timestamp": 35.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1070,
+      "timestamp": 35.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            379,
+            166,
+            728,
+            553
+          ],
+          "confidence": 0.6948629871647752,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1080,
+      "timestamp": 36.0,
+      "detections": [
+        {
+          "bbox": [
+            401,
+            166,
+            731,
+            542
+          ],
+          "confidence": 0.7345600927002701,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1090,
+      "timestamp": 36.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            399,
+            146,
+            768,
+            549
+          ],
+          "confidence": 0.7833768334489023,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1100,
+      "timestamp": 36.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            381,
+            148,
+            731,
+            538
+          ],
+          "confidence": 0.8864400091446698,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1110,
+      "timestamp": 37.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1120,
+      "timestamp": 37.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1130,
+      "timestamp": 37.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            204,
+            250,
+            615,
+            652
+          ],
+          "confidence": 0.7494446679061613,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1140,
+      "timestamp": 38.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1150,
+      "timestamp": 38.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            214,
+            252,
+            608,
+            640
+          ],
+          "confidence": 0.7849588724973173,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1160,
+      "timestamp": 38.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            381,
+            138,
+            729,
+            546
+          ],
+          "confidence": 0.7896687615168207,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1170,
+      "timestamp": 39.0,
+      "detections": [
+        {
+          "bbox": [
+            216,
+            267,
+            598,
+            637
+          ],
+          "confidence": 0.7822293636516481,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1180,
+      "timestamp": 39.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            370,
+            151,
+            771,
+            546
+          ],
+          "confidence": 0.7735040789686903,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            218,
+            256,
+            589,
+            655
+          ],
+          "confidence": 0.8516066819748903,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1190,
+      "timestamp": 39.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            372,
+            142,
+            769,
+            557
+          ],
+          "confidence": 0.9313110403307595,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1200,
+      "timestamp": 40.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1210,
+      "timestamp": 40.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            204,
+            262,
+            617,
+            635
+          ],
+          "confidence": 0.7982985172668842,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1220,
+      "timestamp": 40.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1230,
+      "timestamp": 41.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1240,
+      "timestamp": 41.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            390,
+            140,
+            779,
+            566
+          ],
+          "confidence": 0.879050181594624,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            193,
+            244,
+            610,
+            630
+          ],
+          "confidence": 0.7060207113056018,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1250,
+      "timestamp": 41.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1260,
+      "timestamp": 42.0,
+      "detections": [
+        {
+          "bbox": [
+            191,
+            239,
+            611,
+            645
+          ],
+          "confidence": 0.7633440838622294,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1270,
+      "timestamp": 42.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            207,
+            265,
+            605,
+            637
+          ],
+          "confidence": 0.8285785475888662,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1280,
+      "timestamp": 42.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            419,
+            157,
+            747,
+            566
+          ],
+          "confidence": 0.8439229183044011,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1290,
+      "timestamp": 43.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1300,
+      "timestamp": 43.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            415,
+            164,
+            725,
+            547
+          ],
+          "confidence": 0.951331958745112,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1310,
+      "timestamp": 43.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1320,
+      "timestamp": 44.0,
+      "detections": [
+        {
+          "bbox": [
+            399,
+            134,
+            774,
+            562
+          ],
+          "confidence": 0.8124410524952859,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1330,
+      "timestamp": 44.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            395,
+            154,
+            741,
+            556
+          ],
+          "confidence": 0.9268970881924734,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1340,
+      "timestamp": 44.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            410,
+            164,
+            720,
+            550
+          ],
+          "confidence": 0.8203670589802727,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1350,
+      "timestamp": 45.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1360,
+      "timestamp": 45.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            383,
+            138,
+            765,
+            530
+          ],
+          "confidence": 0.8232886415635319,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1370,
+      "timestamp": 45.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            219,
+            261,
+            613,
+            657
+          ],
+          "confidence": 0.5613098471818067,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1380,
+      "timestamp": 46.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1390,
+      "timestamp": 46.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1400,
+      "timestamp": 46.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            428,
+            146,
+            767,
+            552
+          ],
+          "confidence": 0.8012215856635341,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1410,
+      "timestamp": 47.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1420,
+      "timestamp": 47.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            407,
+            163,
+            757,
+            563
+          ],
+          "confidence": 0.8776346761395275,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            213,
+            267,
+            612,
+            653
+          ],
+          "confidence": 0.8931471645047294,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1430,
+      "timestamp": 47.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            196,
+            234,
+            608,
+            633
+          ],
+          "confidence": 0.8427293859935061,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1440,
+      "timestamp": 48.0,
+      "detections": [
+        {
+          "bbox": [
+            184,
+            263,
+            585,
+            631
+          ],
+          "confidence": 0.7613570421035288,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1450,
+      "timestamp": 48.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            412,
+            140,
+            770,
+            552
+          ],
+          "confidence": 0.8456618772267793,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            204,
+            232,
+            611,
+            632
+          ],
+          "confidence": 0.7136072128203587,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1460,
+      "timestamp": 48.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1470,
+      "timestamp": 49.0,
+      "detections": [
+        {
+          "bbox": [
+            200,
+            234,
+            597,
+            657
+          ],
+          "confidence": 0.7558484115109594,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1480,
+      "timestamp": 49.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1490,
+      "timestamp": 49.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            415,
+            163,
+            768,
+            543
+          ],
+          "confidence": 0.8146265263680167,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1500,
+      "timestamp": 50.0,
+      "detections": [
+        {
+          "bbox": [
+            395,
+            151,
+            766,
+            559
+          ],
+          "confidence": 0.7934659647672375,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            215,
+            230,
+            587,
+            664
+          ],
+          "confidence": 0.7064252512270011,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1510,
+      "timestamp": 50.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            384,
+            151,
+            733,
+            555
+          ],
+          "confidence": 0.8334463266442854,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1520,
+      "timestamp": 50.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            428,
+            136,
+            722,
+            552
+          ],
+          "confidence": 0.9317978905764567,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1530,
+      "timestamp": 51.0,
+      "detections": [
+        {
+          "bbox": [
+            217,
+            264,
+            594,
+            654
+          ],
+          "confidence": 0.7237348075697336,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1540,
+      "timestamp": 51.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1550,
+      "timestamp": 51.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            413,
+            154,
+            736,
+            542
+          ],
+          "confidence": 0.860332221962977,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1560,
+      "timestamp": 52.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1570,
+      "timestamp": 52.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            201,
+            263,
+            587,
+            669
+          ],
+          "confidence": 0.7077652307404126,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1580,
+      "timestamp": 52.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            375,
+            155,
+            753,
+            535
+          ],
+          "confidence": 0.8066762925341474,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1590,
+      "timestamp": 53.0,
+      "detections": [
+        {
+          "bbox": [
+            391,
+            150,
+            725,
+            535
+          ],
+          "confidence": 0.774455020161472,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            209,
+            260,
+            603,
+            638
+          ],
+          "confidence": 0.7407724769741183,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1600,
+      "timestamp": 53.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            420,
+            160,
+            759,
+            566
+          ],
+          "confidence": 0.84731772882882,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1610,
+      "timestamp": 53.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            217,
+            231,
+            594,
+            640
+          ],
+          "confidence": 0.7649054700502501,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1620,
+      "timestamp": 54.0,
+      "detections": [
+        {
+          "bbox": [
+            184,
+            235,
+            605,
+            633
+          ],
+          "confidence": 0.7867854409872026,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1630,
+      "timestamp": 54.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            416,
+            130,
+            745,
+            543
+          ],
+          "confidence": 0.6281331608878208,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            216,
+            240,
+            615,
+            642
+          ],
+          "confidence": 0.7308898335318704,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1640,
+      "timestamp": 54.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            379,
+            134,
+            742,
+            539
+          ],
+          "confidence": 0.8233179069921489,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1650,
+      "timestamp": 55.0,
+      "detections": [
+        {
+          "bbox": [
+            371,
+            149,
+            720,
+            566
+          ],
+          "confidence": 0.9872914790552827,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1660,
+      "timestamp": 55.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            374,
+            143,
+            772,
+            540
+          ],
+          "confidence": 0.7776909865307801,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1670,
+      "timestamp": 55.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            404,
+            130,
+            759,
+            551
+          ],
+          "confidence": 0.8572341824553191,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1680,
+      "timestamp": 56.0,
+      "detections": [
+        {
+          "bbox": [
+            198,
+            243,
+            605,
+            633
+          ],
+          "confidence": 0.8117810675991493,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1690,
+      "timestamp": 56.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            411,
+            154,
+            737,
+            569
+          ],
+          "confidence": 0.9440664590884317,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1700,
+      "timestamp": 56.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1710,
+      "timestamp": 57.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1720,
+      "timestamp": 57.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            416,
+            131,
+            733,
+            569
+          ],
+          "confidence": 0.7921138626876135,
+          "behavior": "brushing",
+          "class_id": 0
+        },
+        {
+          "bbox": [
+            218,
+            235,
+            585,
+            632
+          ],
+          "confidence": 0.6812848252532095,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1730,
+      "timestamp": 57.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            384,
+            158,
+            752,
+            559
+          ],
+          "confidence": 0.900062783024485,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1740,
+      "timestamp": 58.0,
+      "detections": [
+        {
+          "bbox": [
+            212,
+            266,
+            606,
+            662
+          ],
+          "confidence": 0.7742939742331636,
+          "behavior": "grazing",
+          "class_id": 3
+        }
+      ]
+    },
+    {
+      "frame_idx": 1750,
+      "timestamp": 58.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1760,
+      "timestamp": 58.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            407,
+            142,
+            750,
+            565
+          ],
+          "confidence": 0.7865639787264418,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1770,
+      "timestamp": 59.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1780,
+      "timestamp": 59.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1790,
+      "timestamp": 59.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1800,
+      "timestamp": 60.0,
+      "detections": [
+        {
+          "bbox": [
+            115,
+            315,
+            455,
+            656
+          ],
+          "confidence": 0.8376645838861179,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1810,
+      "timestamp": 60.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            87,
+            302,
+            455,
+            641
+          ],
+          "confidence": 0.8594834250011434,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1820,
+      "timestamp": 60.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            97,
+            304,
+            462,
+            669
+          ],
+          "confidence": 0.9512865447414431,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1830,
+      "timestamp": 61.0,
+      "detections": [
+        {
+          "bbox": [
+            497,
+            190,
+            877,
+            568
+          ],
+          "confidence": 0.8372219695249431,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1840,
+      "timestamp": 61.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            108,
+            293,
+            469,
+            651
+          ],
+          "confidence": 0.854903244624901,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            492,
+            160,
+            873,
+            599
+          ],
+          "confidence": 0.7503688605655003,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1850,
+      "timestamp": 61.666666666666664,
+      "detections": []
+    },
+    {
+      "frame_idx": 1860,
+      "timestamp": 62.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1870,
+      "timestamp": 62.333333333333336,
+      "detections": []
+    },
+    {
+      "frame_idx": 1880,
+      "timestamp": 62.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            104,
+            305,
+            440,
+            667
+          ],
+          "confidence": 0.8284015640103578,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1890,
+      "timestamp": 63.0,
+      "detections": [
+        {
+          "bbox": [
+            103,
+            304,
+            436,
+            635
+          ],
+          "confidence": 0.8281968491174554,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            502,
+            188,
+            862,
+            581
+          ],
+          "confidence": 0.7362025720503588,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1900,
+      "timestamp": 63.333333333333336,
+      "detections": [
+        {
+          "bbox": [
+            96,
+            299,
+            449,
+            651
+          ],
+          "confidence": 0.8537956093123628,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            509,
+            166,
+            820,
+            591
+          ],
+          "confidence": 0.7911143433530358,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1910,
+      "timestamp": 63.666666666666664,
+      "detections": [
+        {
+          "bbox": [
+            98,
+            311,
+            459,
+            658
+          ],
+          "confidence": 0.8790349965155999,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1920,
+      "timestamp": 64.0,
+      "detections": [
+        {
+          "bbox": [
+            95,
+            319,
+            448,
+            647
+          ],
+          "confidence": 0.9215996975931932,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1930,
+      "timestamp": 64.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            109,
+            317,
+            433,
+            630
+          ],
+          "confidence": 0.8399751887770823,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1940,
+      "timestamp": 64.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            82,
+            311,
+            439,
+            639
+          ],
+          "confidence": 0.8825453296147422,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 1950,
+      "timestamp": 65.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1960,
+      "timestamp": 65.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 1970,
+      "timestamp": 65.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            82,
+            303,
+            452,
+            637
+          ],
+          "confidence": 0.9180605625177182,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            516,
+            196,
+            822,
+            592
+          ],
+          "confidence": 0.927332622116378,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 1980,
+      "timestamp": 66.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 1990,
+      "timestamp": 66.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2000,
+      "timestamp": 66.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2010,
+      "timestamp": 67.0,
+      "detections": [
+        {
+          "bbox": [
+            93,
+            310,
+            447,
+            636
+          ],
+          "confidence": 0.8976387272744507,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2020,
+      "timestamp": 67.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2030,
+      "timestamp": 67.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            98,
+            315,
+            458,
+            647
+          ],
+          "confidence": 0.8303399507620352,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2040,
+      "timestamp": 68.0,
+      "detections": [
+        {
+          "bbox": [
+            91,
+            299,
+            434,
+            666
+          ],
+          "confidence": 0.8473477836378062,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2050,
+      "timestamp": 68.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            113,
+            314,
+            451,
+            653
+          ],
+          "confidence": 0.8866566059505155,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2060,
+      "timestamp": 68.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            111,
+            296,
+            446,
+            643
+          ],
+          "confidence": 0.8409608076683334,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2070,
+      "timestamp": 69.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2080,
+      "timestamp": 69.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            101,
+            283,
+            455,
+            658
+          ],
+          "confidence": 0.8584096127876255,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            487,
+            180,
+            861,
+            595
+          ],
+          "confidence": 0.727735621967815,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2090,
+      "timestamp": 69.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            113,
+            296,
+            466,
+            654
+          ],
+          "confidence": 0.9524380106532777,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            491,
+            180,
+            846,
+            590
+          ],
+          "confidence": 0.7883320991467891,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2100,
+      "timestamp": 70.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2110,
+      "timestamp": 70.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2120,
+      "timestamp": 70.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            96,
+            305,
+            450,
+            657
+          ],
+          "confidence": 0.863251806367742,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2130,
+      "timestamp": 71.0,
+      "detections": [
+        {
+          "bbox": [
+            522,
+            195,
+            870,
+            585
+          ],
+          "confidence": 0.9063942246660533,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2140,
+      "timestamp": 71.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            90,
+            319,
+            440,
+            665
+          ],
+          "confidence": 0.8409650698809067,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2150,
+      "timestamp": 71.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            103,
+            301,
+            434,
+            662
+          ],
+          "confidence": 0.9221456718643136,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2160,
+      "timestamp": 72.0,
+      "detections": [
+        {
+          "bbox": [
+            98,
+            314,
+            446,
+            663
+          ],
+          "confidence": 0.8607950964081482,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2170,
+      "timestamp": 72.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            80,
+            304,
+            469,
+            654
+          ],
+          "confidence": 0.9719387544693934,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2180,
+      "timestamp": 72.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2190,
+      "timestamp": 73.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2200,
+      "timestamp": 73.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            98,
+            316,
+            446,
+            639
+          ],
+          "confidence": 0.8887003162277425,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            485,
+            183,
+            838,
+            567
+          ],
+          "confidence": 0.9456697027862148,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2210,
+      "timestamp": 73.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2220,
+      "timestamp": 74.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2230,
+      "timestamp": 74.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2240,
+      "timestamp": 74.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2250,
+      "timestamp": 75.0,
+      "detections": [
+        {
+          "bbox": [
+            105,
+            311,
+            439,
+            645
+          ],
+          "confidence": 0.9127393893855416,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            522,
+            166,
+            828,
+            567
+          ],
+          "confidence": 0.80070781233968,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2260,
+      "timestamp": 75.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2270,
+      "timestamp": 75.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            109,
+            318,
+            464,
+            647
+          ],
+          "confidence": 0.9676426402223887,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2280,
+      "timestamp": 76.0,
+      "detections": [
+        {
+          "bbox": [
+            113,
+            282,
+            466,
+            669
+          ],
+          "confidence": 0.8936027052210093,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2290,
+      "timestamp": 76.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            118,
+            294,
+            433,
+            658
+          ],
+          "confidence": 0.9292064525382858,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2300,
+      "timestamp": 76.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            81,
+            314,
+            463,
+            659
+          ],
+          "confidence": 0.9134424420463809,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            482,
+            172,
+            837,
+            591
+          ],
+          "confidence": 0.9978163714587507,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2310,
+      "timestamp": 77.0,
+      "detections": [
+        {
+          "bbox": [
+            89,
+            309,
+            454,
+            668
+          ],
+          "confidence": 0.8539851622371989,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2320,
+      "timestamp": 77.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            514,
+            173,
+            875,
+            589
+          ],
+          "confidence": 0.8263650785839725,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2330,
+      "timestamp": 77.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            80,
+            294,
+            438,
+            644
+          ],
+          "confidence": 0.9097615308259664,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2340,
+      "timestamp": 78.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2350,
+      "timestamp": 78.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2360,
+      "timestamp": 78.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            85,
+            318,
+            453,
+            640
+          ],
+          "confidence": 0.8761160173038671,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2370,
+      "timestamp": 79.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2380,
+      "timestamp": 79.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            512,
+            193,
+            876,
+            585
+          ],
+          "confidence": 0.794345510916339,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2390,
+      "timestamp": 79.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            82,
+            285,
+            434,
+            634
+          ],
+          "confidence": 0.8300329975470381,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2400,
+      "timestamp": 80.0,
+      "detections": [
+        {
+          "bbox": [
+            114,
+            297,
+            446,
+            653
+          ],
+          "confidence": 0.9028592278630794,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2410,
+      "timestamp": 80.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            92,
+            304,
+            438,
+            633
+          ],
+          "confidence": 0.8463955968566664,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2420,
+      "timestamp": 80.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            107,
+            308,
+            438,
+            632
+          ],
+          "confidence": 0.8865879130974856,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2430,
+      "timestamp": 81.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2440,
+      "timestamp": 81.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2450,
+      "timestamp": 81.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            103,
+            294,
+            467,
+            637
+          ],
+          "confidence": 0.8705817311118123,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2460,
+      "timestamp": 82.0,
+      "detections": [
+        {
+          "bbox": [
+            497,
+            164,
+            832,
+            576
+          ],
+          "confidence": 0.7981703136696827,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2470,
+      "timestamp": 82.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            111,
+            308,
+            432,
+            669
+          ],
+          "confidence": 0.9072756595850524,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2480,
+      "timestamp": 82.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2490,
+      "timestamp": 83.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2500,
+      "timestamp": 83.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2510,
+      "timestamp": 83.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2520,
+      "timestamp": 84.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2530,
+      "timestamp": 84.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            512,
+            190,
+            842,
+            569
+          ],
+          "confidence": 0.9377365860588827,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2540,
+      "timestamp": 84.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2550,
+      "timestamp": 85.0,
+      "detections": [
+        {
+          "bbox": [
+            471,
+            173,
+            832,
+            588
+          ],
+          "confidence": 0.7274323451782025,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2560,
+      "timestamp": 85.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            106,
+            296,
+            469,
+            660
+          ],
+          "confidence": 0.8553992795464082,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2570,
+      "timestamp": 85.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            114,
+            285,
+            448,
+            659
+          ],
+          "confidence": 0.8781431851703441,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2580,
+      "timestamp": 86.0,
+      "detections": [
+        {
+          "bbox": [
+            94,
+            309,
+            466,
+            658
+          ],
+          "confidence": 0.866803410594661,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2590,
+      "timestamp": 86.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            115,
+            283,
+            456,
+            646
+          ],
+          "confidence": 0.910076104721308,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2600,
+      "timestamp": 86.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            97,
+            293,
+            458,
+            641
+          ],
+          "confidence": 0.9190759631214827,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2610,
+      "timestamp": 87.0,
+      "detections": [
+        {
+          "bbox": [
+            91,
+            286,
+            458,
+            640
+          ],
+          "confidence": 0.8620334476489775,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2620,
+      "timestamp": 87.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            102,
+            305,
+            463,
+            663
+          ],
+          "confidence": 0.9250701276770481,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2630,
+      "timestamp": 87.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            92,
+            318,
+            444,
+            658
+          ],
+          "confidence": 0.8391506873147715,
+          "behavior": "drinking",
+          "class_id": 1
+        },
+        {
+          "bbox": [
+            483,
+            179,
+            841,
+            570
+          ],
+          "confidence": 0.8466685157839483,
+          "behavior": "brushing",
+          "class_id": 0
+        }
+      ]
+    },
+    {
+      "frame_idx": 2640,
+      "timestamp": 88.0,
+      "detections": [
+        {
+          "bbox": [
+            96,
+            307,
+            458,
+            650
+          ],
+          "confidence": 0.8061291026211439,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2650,
+      "timestamp": 88.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2660,
+      "timestamp": 88.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            104,
+            303,
+            441,
+            647
+          ],
+          "confidence": 0.8573332234995957,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2670,
+      "timestamp": 89.0,
+      "detections": [
+        {
+          "bbox": [
+            87,
+            304,
+            446,
+            658
+          ],
+          "confidence": 0.9083086216499848,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2680,
+      "timestamp": 89.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2690,
+      "timestamp": 89.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            103,
+            282,
+            449,
+            644
+          ],
+          "confidence": 0.9089016032116031,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2700,
+      "timestamp": 90.0,
+      "detections": [
+        {
+          "bbox": [
+            576,
+            213,
+            918,
+            607
+          ],
+          "confidence": 0.6926110517664867,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2710,
+      "timestamp": 90.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2720,
+      "timestamp": 90.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 2730,
+      "timestamp": 91.0,
+      "detections": [
+        {
+          "bbox": [
+            580,
+            187,
+            973,
+            587
+          ],
+          "confidence": 0.7035608923386262,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2740,
+      "timestamp": 91.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            154,
+            362,
+            517,
+            687
+          ],
+          "confidence": 0.8769924051764844,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2750,
+      "timestamp": 91.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            635,
+            226,
+            955,
+            601
+          ],
+          "confidence": 0.8346013544671269,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            151,
+            357,
+            499,
+            712
+          ],
+          "confidence": 0.8189517913085168,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2760,
+      "timestamp": 92.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2770,
+      "timestamp": 92.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            636,
+            199,
+            942,
+            582
+          ],
+          "confidence": 0.752688583899453,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            151,
+            368,
+            481,
+            717
+          ],
+          "confidence": 0.9198843263424761,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2780,
+      "timestamp": 92.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            169,
+            340,
+            482,
+            685
+          ],
+          "confidence": 0.8620421430633505,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2790,
+      "timestamp": 93.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2800,
+      "timestamp": 93.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            141,
+            337,
+            487,
+            707
+          ],
+          "confidence": 0.8010268362964964,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2810,
+      "timestamp": 93.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            149,
+            345,
+            483,
+            685
+          ],
+          "confidence": 0.8844504990892387,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2820,
+      "timestamp": 94.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2830,
+      "timestamp": 94.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2840,
+      "timestamp": 94.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            141,
+            352,
+            491,
+            692
+          ],
+          "confidence": 0.9484279563989596,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2850,
+      "timestamp": 95.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2860,
+      "timestamp": 95.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2870,
+      "timestamp": 95.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            147,
+            335,
+            497,
+            698
+          ],
+          "confidence": 0.808798070900025,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2880,
+      "timestamp": 96.0,
+      "detections": [
+        {
+          "bbox": [
+            615,
+            210,
+            968,
+            572
+          ],
+          "confidence": 0.7324398699288968,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            144,
+            362,
+            486,
+            691
+          ],
+          "confidence": 0.7920190579475844,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2890,
+      "timestamp": 96.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            590,
+            227,
+            970,
+            593
+          ],
+          "confidence": 0.5635668471690906,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            149,
+            353,
+            511,
+            715
+          ],
+          "confidence": 0.7849199626982213,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2900,
+      "timestamp": 96.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            625,
+            184,
+            943,
+            605
+          ],
+          "confidence": 0.5867047719458016,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2910,
+      "timestamp": 97.0,
+      "detections": [
+        {
+          "bbox": [
+            147,
+            369,
+            500,
+            694
+          ],
+          "confidence": 0.8013615787725736,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2920,
+      "timestamp": 97.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            585,
+            177,
+            951,
+            613
+          ],
+          "confidence": 0.7730640910264365,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2930,
+      "timestamp": 97.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            600,
+            223,
+            969,
+            616
+          ],
+          "confidence": 0.517532072751353,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2940,
+      "timestamp": 98.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 2950,
+      "timestamp": 98.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            576,
+            228,
+            937,
+            571
+          ],
+          "confidence": 0.9216765480314387,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            152,
+            360,
+            490,
+            689
+          ],
+          "confidence": 0.906880578003702,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2960,
+      "timestamp": 98.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            573,
+            185,
+            983,
+            598
+          ],
+          "confidence": 0.849626681944714,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 2970,
+      "timestamp": 99.0,
+      "detections": [
+        {
+          "bbox": [
+            602,
+            181,
+            910,
+            626
+          ],
+          "confidence": 0.7006243416838688,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            149,
+            357,
+            516,
+            716
+          ],
+          "confidence": 0.904734428768219,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 2980,
+      "timestamp": 99.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 2990,
+      "timestamp": 99.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 3000,
+      "timestamp": 100.0,
+      "detections": [
+        {
+          "bbox": [
+            143,
+            331,
+            488,
+            716
+          ],
+          "confidence": 0.8388877946790201,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3010,
+      "timestamp": 100.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            164,
+            335,
+            516,
+            684
+          ],
+          "confidence": 0.8395468875386658,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3020,
+      "timestamp": 100.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            153,
+            363,
+            504,
+            708
+          ],
+          "confidence": 0.7852718383793107,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3030,
+      "timestamp": 101.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3040,
+      "timestamp": 101.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3050,
+      "timestamp": 101.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            145,
+            337,
+            500,
+            680
+          ],
+          "confidence": 0.793960479053178,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3060,
+      "timestamp": 102.0,
+      "detections": [
+        {
+          "bbox": [
+            606,
+            203,
+            974,
+            624
+          ],
+          "confidence": 0.798389231724189,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3070,
+      "timestamp": 102.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            147,
+            346,
+            505,
+            687
+          ],
+          "confidence": 0.8486698095956777,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3080,
+      "timestamp": 102.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            605,
+            173,
+            942,
+            570
+          ],
+          "confidence": 0.8007015764487191,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            145,
+            343,
+            484,
+            705
+          ],
+          "confidence": 0.7804986881846869,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3090,
+      "timestamp": 103.0,
+      "detections": [
+        {
+          "bbox": [
+            162,
+            354,
+            492,
+            688
+          ],
+          "confidence": 0.8079996304502298,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3100,
+      "timestamp": 103.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            590,
+            210,
+            984,
+            573
+          ],
+          "confidence": 0.8723190105426658,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3110,
+      "timestamp": 103.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 3120,
+      "timestamp": 104.0,
+      "detections": [
+        {
+          "bbox": [
+            140,
+            330,
+            503,
+            686
+          ],
+          "confidence": 0.8647116705242991,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3130,
+      "timestamp": 104.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            574,
+            170,
+            985,
+            627
+          ],
+          "confidence": 0.9094505063224972,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            154,
+            362,
+            511,
+            714
+          ],
+          "confidence": 0.7876519325840836,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3140,
+      "timestamp": 104.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            570,
+            204,
+            981,
+            615
+          ],
+          "confidence": 0.8769177182543129,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3150,
+      "timestamp": 105.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3160,
+      "timestamp": 105.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3170,
+      "timestamp": 105.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            134,
+            363,
+            516,
+            694
+          ],
+          "confidence": 0.8648868564074726,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3180,
+      "timestamp": 106.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3190,
+      "timestamp": 106.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3200,
+      "timestamp": 106.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 3210,
+      "timestamp": 107.0,
+      "detections": [
+        {
+          "bbox": [
+            582,
+            212,
+            989,
+            616
+          ],
+          "confidence": 0.6313302882312066,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            142,
+            351,
+            498,
+            713
+          ],
+          "confidence": 0.9065366196268997,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3220,
+      "timestamp": 107.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            627,
+            217,
+            961,
+            615
+          ],
+          "confidence": 0.847090073193431,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3230,
+      "timestamp": 107.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 3240,
+      "timestamp": 108.0,
+      "detections": [
+        {
+          "bbox": [
+            133,
+            355,
+            504,
+            709
+          ],
+          "confidence": 0.799127669377045,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3250,
+      "timestamp": 108.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            633,
+            208,
+            922,
+            600
+          ],
+          "confidence": 0.6898632356048786,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3260,
+      "timestamp": 108.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            595,
+            189,
+            977,
+            623
+          ],
+          "confidence": 0.7819781934142537,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3270,
+      "timestamp": 109.0,
+      "detections": [
+        {
+          "bbox": [
+            142,
+            351,
+            500,
+            701
+          ],
+          "confidence": 0.8962634525519165,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3280,
+      "timestamp": 109.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            137,
+            353,
+            495,
+            705
+          ],
+          "confidence": 0.8511006580353484,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3290,
+      "timestamp": 109.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            627,
+            219,
+            933,
+            588
+          ],
+          "confidence": 0.7935555848374813,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3300,
+      "timestamp": 110.0,
+      "detections": [
+        {
+          "bbox": [
+            134,
+            364,
+            513,
+            712
+          ],
+          "confidence": 0.8746131830185067,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3310,
+      "timestamp": 110.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            581,
+            217,
+            946,
+            584
+          ],
+          "confidence": 0.6799651192542047,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3320,
+      "timestamp": 110.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            636,
+            226,
+            934,
+            571
+          ],
+          "confidence": 0.6857001776519122,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            136,
+            350,
+            497,
+            682
+          ],
+          "confidence": 0.7365899800022427,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3330,
+      "timestamp": 111.0,
+      "detections": [
+        {
+          "bbox": [
+            153,
+            348,
+            483,
+            705
+          ],
+          "confidence": 0.7312931275832056,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3340,
+      "timestamp": 111.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3350,
+      "timestamp": 111.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            166,
+            362,
+            515,
+            682
+          ],
+          "confidence": 0.7456375288273465,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3360,
+      "timestamp": 112.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3370,
+      "timestamp": 112.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3380,
+      "timestamp": 112.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            161,
+            350,
+            487,
+            717
+          ],
+          "confidence": 0.7673437605899474,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3390,
+      "timestamp": 113.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3400,
+      "timestamp": 113.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            617,
+            172,
+            979,
+            571
+          ],
+          "confidence": 0.9172572386837703,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3410,
+      "timestamp": 113.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            603,
+            227,
+            945,
+            574
+          ],
+          "confidence": 0.7919019009366045,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            160,
+            345,
+            509,
+            695
+          ],
+          "confidence": 0.8289990550327785,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3420,
+      "timestamp": 114.0,
+      "detections": [
+        {
+          "bbox": [
+            169,
+            334,
+            499,
+            719
+          ],
+          "confidence": 0.8491805985393965,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3430,
+      "timestamp": 114.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            159,
+            350,
+            499,
+            685
+          ],
+          "confidence": 0.8706648288291539,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3440,
+      "timestamp": 114.66666666666667,
+      "detections": []
+    },
+    {
+      "frame_idx": 3450,
+      "timestamp": 115.0,
+      "detections": [
+        {
+          "bbox": [
+            143,
+            365,
+            512,
+            702
+          ],
+          "confidence": 0.7956840462175442,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3460,
+      "timestamp": 115.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            625,
+            210,
+            911,
+            596
+          ],
+          "confidence": 0.7560029005752013,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3470,
+      "timestamp": 115.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            585,
+            173,
+            964,
+            575
+          ],
+          "confidence": 0.5889155544438254,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3480,
+      "timestamp": 116.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3490,
+      "timestamp": 116.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            167,
+            347,
+            514,
+            709
+          ],
+          "confidence": 0.8584220503128077,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3500,
+      "timestamp": 116.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            150,
+            364,
+            481,
+            706
+          ],
+          "confidence": 0.8599797056640747,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3510,
+      "timestamp": 117.0,
+      "detections": [
+        {
+          "bbox": [
+            149,
+            347,
+            489,
+            704
+          ],
+          "confidence": 0.7938909346036513,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3520,
+      "timestamp": 117.33333333333333,
+      "detections": []
+    },
+    {
+      "frame_idx": 3530,
+      "timestamp": 117.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            639,
+            223,
+            961,
+            572
+          ],
+          "confidence": 1.0129212631300273,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3540,
+      "timestamp": 118.0,
+      "detections": []
+    },
+    {
+      "frame_idx": 3550,
+      "timestamp": 118.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            580,
+            203,
+            977,
+            594
+          ],
+          "confidence": 0.7391962300210749,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3560,
+      "timestamp": 118.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            572,
+            200,
+            987,
+            589
+          ],
+          "confidence": 0.7431209153565121,
+          "behavior": "headbutting",
+          "class_id": 2
+        }
+      ]
+    },
+    {
+      "frame_idx": 3570,
+      "timestamp": 119.0,
+      "detections": [
+        {
+          "bbox": [
+            565,
+            201,
+            952,
+            571
+          ],
+          "confidence": 0.6533482974065007,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            148,
+            363,
+            489,
+            704
+          ],
+          "confidence": 0.8508595232191282,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3580,
+      "timestamp": 119.33333333333333,
+      "detections": [
+        {
+          "bbox": [
+            570,
+            219,
+            940,
+            625
+          ],
+          "confidence": 0.6901506383283664,
+          "behavior": "headbutting",
+          "class_id": 2
+        },
+        {
+          "bbox": [
+            150,
+            338,
+            507,
+            686
+          ],
+          "confidence": 0.7429509071315813,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    },
+    {
+      "frame_idx": 3590,
+      "timestamp": 119.66666666666667,
+      "detections": [
+        {
+          "bbox": [
+            133,
+            333,
+            518,
+            719
+          ],
+          "confidence": 0.8518469084873175,
+          "behavior": "drinking",
+          "class_id": 1
+        }
+      ]
+    }
+  ],
+  "behavior_summary": {
+    "total_detections": 271,
+    "behavior_counts": {
+      "grazing": 89,
+      "brushing": 56,
+      "drinking": 93,
+      "headbutting": 33
+    },
+    "behavior_percentages": {
+      "grazing": 32.84132841328413,
+      "brushing": 20.66420664206642,
+      "drinking": 34.31734317343174,
+      "headbutting": 12.177121771217712
+    },
+    "unique_behaviors": [
+      "grazing",
+      "brushing",
+      "drinking",
+      "headbutting"
+    ]
+  },
+  "processing_stats": {
+    "processing_time": 15.3,
+    "fps_processed": 235.2941176470588,
+    "frames_processed": 360
+  }
+}
