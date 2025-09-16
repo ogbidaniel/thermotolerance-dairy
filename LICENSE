@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2024 Thermotolerance Dairy Cattle Behavior Analysis Research Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Additional Terms for Research Use
+
+This software is developed for research purposes in dairy cattle welfare and 
+thermal stress detection. When using this software for research:
+
+1. **Citation Required**: Please cite our research paper when using this software 
+   in academic work or publications.
+
+2. **Animal Welfare**: This software should only be used in ways that promote 
+   animal welfare and improve cattle management practices.
+
+3. **Data Privacy**: When working with farm data, ensure proper permissions and 
+   follow local data protection regulations.
+
+4. **Commercial Use**: For commercial applications, please contact the research 
+   team for licensing arrangements.
+
+## Research Citation
+
+```bibtex
+@article{yourname2024thermotolerance,
+  title={Automated Detection of Thermal Stress Behaviors in Dairy Cattle Using Computer Vision},
+  author={Your Name and Co-authors},
+  journal={Journal of Dairy Science},
+  year={2024},
+  note={Software available at: https://github.com/ogbidaniel/thermotolerance-dairy}
+}
+```

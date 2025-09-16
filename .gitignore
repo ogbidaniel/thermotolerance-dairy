@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (keep structure but exclude large files)
+data/sample_videos/*.mp4
+data/sample_videos/*.avi
+data/sample_videos/*.mov
+data/sample_videos/*.mkv
+data/sample_videos/*.wmv
+data/sample_videos/*.flv
+
+# Model files (large binary files)
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/**/*.h5
+models/**/*.pkl
+
+# Output and results
+results/
+output/
+demo_output/*.png
+demo_output/*.html
+batch_results/
+realtime_output/
+*_results/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Video processing artifacts
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+except: data/sample_videos/README.md
+
+# But keep example files and documentation
+!**/README.md
+!**/example_*
+!demo_output/*.sh
+!demo_output/*.json
+!demo_output/*.csv
